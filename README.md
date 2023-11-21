@@ -20,6 +20,7 @@ SoraChat aims to redefine the conversational agent landscape by introducing feat
    git clone https://github.com/heysuhas/sora
    cd sora
 2. **Install the required dependencies**
-3. **Run the application**
+3. **Create a folder called "templates", and place the index.html in it. (templates\index.html)**
+4. **Run the application**
    ```python
    python app.py
