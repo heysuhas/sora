@@ -1,4 +1,4 @@
-# SoraChat - Conversational AI Chatbot
+# SoraChat - Conversational Chatbot
 
 Welcome to SoraChat, a Simple Python Flask chatbot project designed for natural language processing and user interactions.
 
